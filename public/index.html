@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Maharaja Perfumes</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Maharaja Perfumes</div>
+    <nav class="nav">
+      <input id="search" placeholder="ابحث عن عطر..." class="search" />
+      <button id="cartBtn" class="cart-btn">السلة (<span id="cartCount">0</span>)</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero" style="background-image:url('/images/hero.jpg');"></section>
+    <section id="womenSection"><h2>عطور نسائية</h2><div class="products" id="productsWomen"></div></section>
+    <section id="menSection"><h2>عطور رجالية</h2><div class="products" id="productsMen"></div></section>
+  </main>
+
+  <aside id="cartPanel" class="cart-panel hidden" aria-hidden="true">
+    <h2>سلة المشتريات</h2>
+    <div id="cartItems"></div>
+    <div class="cart-summary">
+      <div>الإجمالي: <strong id="cartTotal">0.00</strong> د.إ</div>
+      <button id="checkoutBtn" class="btn primary">إتمام الشراء</button>
+    </div>
+    <button id="closeCart" class="close-cart">×</button>
+  </aside>
+
+  <template id="productTemplate">
+    <article class="product-card">
+      <img class="product-img" src="" alt="">
+      <div class="product-info">
+        <h3 class="product-title"></h3>
+        <p class="product-desc"></p>
+        <div class="product-meta">
+          <div class="price">0.00 د.إ</div>
+          <div class="stock">غير متوفر</div>
+        </div>
+        <div class="actions">
+          <input type="number" min="1" value="1" class="qty" />
+          <button class="btn add">أضف إلى السلة</button>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script src="/script.js"></script>
+</body>
+</html>
