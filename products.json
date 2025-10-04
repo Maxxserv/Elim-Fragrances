@@ -1,0 +1,353 @@
+[
+  {
+    "id": "p001",
+    "title": "Ansaam Gold",
+    "description": "عطر Ansaam Gold — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 37.5,
+    "stock": 13,
+    "image": "/images/ansaam_gold.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p002",
+    "title": "Fakhar Rose",
+    "description": "عطر Fakhar Rose — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 50.0,
+    "stock": 16,
+    "image": "/images/fakhar_rose.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p003",
+    "title": "Ameeraat Al-Arab",
+    "description": "عطر Ameeraat Al-Arab — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 62.5,
+    "stock": 19,
+    "image": "/images/ameeraat_alarab.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p004",
+    "title": "Nebras",
+    "description": "عطر Nebras — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 75.0,
+    "stock": 22,
+    "image": "/images/nebras.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p005",
+    "title": "Ammerat Al-Arab",
+    "description": "عطر Ammerat Al-Arab — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 87.5,
+    "stock": 25,
+    "image": "/images/ammerat_alarab.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p006",
+    "title": "Mayar",
+    "description": "عطر Mayar — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 100.0,
+    "stock": 28,
+    "image": "/images/mayar.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p007",
+    "title": "Yara",
+    "description": "عطر Yara — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 112.5,
+    "stock": 10,
+    "image": "/images/yara.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p008",
+    "title": "Lattafa Sublime",
+    "description": "عطر Lattafa Sublime — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 125.0,
+    "stock": 13,
+    "image": "/images/lattafa_sublime.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p009",
+    "title": "Paris Corner Eternal Musk",
+    "description": "عطر Paris Corner Eternal Musk — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 137.5,
+    "stock": 16,
+    "image": "/images/paris_corner_eternal_musk.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p010",
+    "title": "Lattafa Rose",
+    "description": "عطر Lattafa Rose — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 25.0,
+    "stock": 19,
+    "image": "/images/lattafa_rose.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p011",
+    "title": "Hayati Belle",
+    "description": "عطر Hayati Belle — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 37.5,
+    "stock": 22,
+    "image": "/images/hayati_belle.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p012",
+    "title": "Eclaire",
+    "description": "عطر Eclaire — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 50.0,
+    "stock": 25,
+    "image": "/images/eclaire.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p013",
+    "title": "Amethyst Her Confession",
+    "description": "عطر Amethyst Her Confession — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 62.5,
+    "stock": 28,
+    "image": "/images/amethyst_her_confession.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p014",
+    "title": "Teriq Intense",
+    "description": "عطر Teriq Intense — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 75.0,
+    "stock": 10,
+    "image": "/images/teriq_intense.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p015",
+    "title": "Hayati",
+    "description": "عطر Hayati — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 87.5,
+    "stock": 13,
+    "image": "/images/hayati.jpg",
+    "category": "Women"
+  },
+  {
+    "id": "p016",
+    "title": "Lattafa (Classic)",
+    "description": "عطر Lattafa (Classic) — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 100.0,
+    "stock": 16,
+    "image": "/images/lattafa_classic_.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p017",
+    "title": "Afnan (Signature)",
+    "description": "عطر Afnan (Signature) — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 112.5,
+    "stock": 19,
+    "image": "/images/afnan_signature_.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p018",
+    "title": "Oud for Glory",
+    "description": "عطر Oud for Glory — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 125.0,
+    "stock": 22,
+    "image": "/images/oud_for_glory.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p019",
+    "title": "Fakhar Black",
+    "description": "عطر Fakhar Black — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 137.5,
+    "stock": 25,
+    "image": "/images/fakhar_black.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p020",
+    "title": "Asad",
+    "description": "عطر Asad — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 25.0,
+    "stock": 28,
+    "image": "/images/asad.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p021",
+    "title": "Ramz Silver",
+    "description": "عطر Ramz Silver — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 37.5,
+    "stock": 10,
+    "image": "/images/ramz_silver.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p022",
+    "title": "Oud Mood",
+    "description": "عطر Oud Mood — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 50.0,
+    "stock": 13,
+    "image": "/images/oud_mood.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p023",
+    "title": "Oudain",
+    "description": "عطر Oudain — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 62.5,
+    "stock": 16,
+    "image": "/images/oudain.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p024",
+    "title": "Ra'ed",
+    "description": "عطر Ra'ed — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 75.0,
+    "stock": 19,
+    "image": "/images/ra_ed.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p025",
+    "title": "Khamrah",
+    "description": "عطر Khamrah — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 87.5,
+    "stock": 22,
+    "image": "/images/khamrah.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p026",
+    "title": "9PM",
+    "description": "عطر 9PM — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 100.0,
+    "stock": 25,
+    "image": "/images/9pm.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p027",
+    "title": "Black Asad",
+    "description": "عطر Black Asad — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 112.5,
+    "stock": 28,
+    "image": "/images/black_asad.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p028",
+    "title": "Proud of You",
+    "description": "عطر Proud of You — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 125.0,
+    "stock": 10,
+    "image": "/images/proud_of_you.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p029",
+    "title": "Hayati (Men)",
+    "description": "عطر Hayati (Men) — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 137.5,
+    "stock": 13,
+    "image": "/images/hayati_men_.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p030",
+    "title": "Absolute",
+    "description": "عطر Absolute — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 25.0,
+    "stock": 16,
+    "image": "/images/absolute.jpg",
+    "category": "Men"
+  },
+  {
+    "id": "p031",
+    "title": "Lattafa Ana Abiyedh",
+    "description": "عطر Lattafa Ana Abiyedh — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 37.5,
+    "stock": 19,
+    "image": "/images/lattafa_ana_abiyedh.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p032",
+    "title": "Lattafa Yara",
+    "description": "عطر Lattafa Yara — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 50.0,
+    "stock": 22,
+    "image": "/images/lattafa_yara.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p033",
+    "title": "Lattafa Mayar",
+    "description": "عطر Lattafa Mayar — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 62.5,
+    "stock": 25,
+    "image": "/images/lattafa_mayar.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p034",
+    "title": "Lattafa Raghba",
+    "description": "عطر Lattafa Raghba — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 75.0,
+    "stock": 28,
+    "image": "/images/lattafa_raghba.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p035",
+    "title": "Afnan Supremacy",
+    "description": "عطر Afnan Supremacy — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 87.5,
+    "stock": 10,
+    "image": "/images/afnan_supremacy.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p036",
+    "title": "Afnan 9PM Intense",
+    "description": "عطر Afnan 9PM Intense — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 100.0,
+    "stock": 13,
+    "image": "/images/afnan_9pm_intense.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p037",
+    "title": "Paris Corner Musk",
+    "description": "عطر Paris Corner Musk — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 112.5,
+    "stock": 16,
+    "image": "/images/paris_corner_musk.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p038",
+    "title": "Hayati Gold",
+    "description": "عطر Hayati Gold — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 125.0,
+    "stock": 19,
+    "image": "/images/hayati_gold.jpg",
+    "category": "Unisex"
+  },
+  {
+    "id": "p039",
+    "title": "Amira Oud",
+    "description": "عطر Amira Oud — توليفة شرقية فاخرة، تركيز عالي وثبات طويل.",
+    "price": 137.5,
+    "stock": 22,
+    "image": "/images/amira_oud.jpg",
+    "category": "Unisex"
+  }
+]
