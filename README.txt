@@ -1,1 +1,0 @@
-Maharaja Perfumes project - see README in previous version.
